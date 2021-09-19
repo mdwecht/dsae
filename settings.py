@@ -38,6 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'job_manager',
+    'analytic_01',
+    'analytic_02',
+    'analytic_03',
 ]
 
 MIDDLEWARE = [
